@@ -2,4 +2,6 @@
 
 And of course, images look great:
 
-<img src="/assets/track.jpg"/>
+<p align="center">
+	<img src="/assets/track.jpg"/>
+</p>
