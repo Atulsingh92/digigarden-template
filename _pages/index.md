@@ -14,18 +14,10 @@ Salut from the Eternal Marine!
   <span style="font-weight: bold">[[It all starts here]]</span>
 </p>
 
-body{
-background-image: ![Keeping at it!](assets/Naruto.jpg) "Keeping at it");
-background-position: right;
-}
 
-<!--
-body {
-background-image: assets/Naruto.jpg;
-background-position: right;
-background-repeat: no-repeat;
-}
--->
+![Keeping at it!](assets/Naruto.jpg) *Keeping at it*)
+
+
 <style>
   .wrapper {
     max-width: 46em;
