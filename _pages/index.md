@@ -15,7 +15,8 @@ Salut from the Eternal Marine!
 </p>
 
 
-![Keeping at it!](assets/Naruto.jpg) *Keeping at it*)
+![Keeping at it!](assets/Naruto.jpg) 
+*Keeping at it*
 
 
 <style>
