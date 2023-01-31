@@ -12,9 +12,6 @@ Lists work as expected:
 2. List element
 3. List element
 
-If you'd like to quote other people, consider using quote blocks:
-
-> Lorem ipsum dolor sit amet
 
 And of course, images look great:
 
