@@ -13,9 +13,9 @@ title: The eternal marine!
 -   Vedic Astrology: Things learned during the lockdown.
 -   Pran: The life force understood from a lense of fluid mechanics.
 -   Loneliness: A continuous battle.
--   [[Naruto | My own findings with the character(s).]]
+-   [[Naruto|My own findings with the character(s).]]
 -   [[Convolution and Lord Vishnu]]
--   [[RRR inspired from Naruto | RRR and Naruto(???)]]
+-   [[RRR inspired from Naruto|RRR and Naruto(???)]]
 
 ### Next steps
 
