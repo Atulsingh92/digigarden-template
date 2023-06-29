@@ -20,15 +20,6 @@
 -	It is also said, that Param-aatma is he, and every living being is going through the cycle of life and birth, to eventually tend to the originator of aatama, that is lord vishnu.
 -	This is of course on a larger time scale, and not comprehensible by an individual living only 70 or years on the planet, but 70 years, on the frame of time in general is perhaps even smaller than the scale of time itself.
 -	
-<h1 style="text-align: center;">Culture </h1>
-
--	Colorful nature of rest
--	Dances
--	Dresses
--	Celebration
--	Movies
--	Compactness (Japan)
-
 
 <h1 style="text-align: center;">All together </h1>
 
