@@ -16,6 +16,7 @@ title: The eternal marine!
 -   [[Naruto|My own findings with the character(s).]]
 -   [[Convolution and Lord Vishnu]]
 -   [[RRR inspired from Naruto|RRR and Naruto(???)]]
+-   [[Learning_from_Mahabharat]]
 
 ### Next steps
 
