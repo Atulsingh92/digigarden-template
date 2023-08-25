@@ -10,10 +10,26 @@
 
 - Traitswise, Sun is always willing to "expand" and doesn't understand the nittiy gritty of politics. This is also observed in Karna as he keeps telling Duryodhan to beat Pandavs in battlefield like a true warrior and not through tricks.
 - 
-- By deductive logic, conversely, someone being a statesman and with a strong sun, could also mean that he/she is somewhat descendant of the Sun dynasty or is connected to the lineage of the same, or else, why would the Sun bless him with his abundance. (?)
+- By deductive logic, conversely, someone being a statesman and with a strong sun, could also mean that he/she is somewhat descendant of the Sun dynasty or is connected to the lineage of the same, or else, why would the Sun bless him with his abundance. (?) 
+## Misc
+- Arjun with gandharv vidya - a warrior is not complete without the knowledge of grace!
+- Surya ka tej kam karne ke liye swayam Vishnu ka aake intervene karna padta hai            
+- Both parents being irresponsible = Karna = Struggle of thier parents. As Kunti just tested the var given by Durvasa would it work or not, and eventually got Karna as a mistake. Kunti should not have mis used her vardaan.
+
+## Bheeshm
 
 - Being celibate will give you powers second to none (Bheeshm), but will most likely make the journey sadder, as if you are being tested. And you will be, time and again. But if you succeed, Narayan himself will free you from the cycle of life and death. 
+- The concept of self during the war. Krishna says to Yuddhishtir to return the vijayshri aashirwad to Bheeshm, as he himself is comming in the way of the blessing. Bheeshm responds by suggesting that bringing a girl in front of him will make him surrender his weapon. So in a way he himself gave his way.
 
-- 
-- 
 
+## Constants and Chiranjeevis
+
+- Any physics based equartion requires a physical constant. F = G m1 m2 / r2, where G is the gravitational constant, for the Force to correctly function. 
+- If earth and its timeline is a physical phenomena at the grander scheme of things, it would need constants (chiranjeevis) for the equation to balance out correctly. 
+- This also holds on its own, if the Narayan taking rebirth is to be believed, as he would be both side of the equation. He as a prime (F) is same as the other side of the equation. But to actually "balance" out the forces, he needs constants. 
+  - Hence Hanuman (if someone needs help), 
+  - hence Vishwamitr (him drinking water from sea to balance earth), 
+  - hence Parshuram (if something goes sideways), 
+  - hence Ashwathama (don't know his purpose?? penance , I guess??? for having killed Pandu grandsons in thier sleep), 
+  - hence Ved Vyas (becuase he may need knowledge), 
+  - hence Vibhishan (becuase he needs a friend??? I guess??)
